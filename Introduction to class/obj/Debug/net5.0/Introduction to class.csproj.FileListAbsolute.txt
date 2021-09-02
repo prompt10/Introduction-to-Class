@@ -1,0 +1,16 @@
+D:\Prompt\MDT211\Introduction to class\Introduction to class\bin\Debug\net5.0\Introduction to class.exe
+D:\Prompt\MDT211\Introduction to class\Introduction to class\bin\Debug\net5.0\Introduction to class.deps.json
+D:\Prompt\MDT211\Introduction to class\Introduction to class\bin\Debug\net5.0\Introduction to class.runtimeconfig.json
+D:\Prompt\MDT211\Introduction to class\Introduction to class\bin\Debug\net5.0\Introduction to class.runtimeconfig.dev.json
+D:\Prompt\MDT211\Introduction to class\Introduction to class\bin\Debug\net5.0\Introduction to class.dll
+D:\Prompt\MDT211\Introduction to class\Introduction to class\bin\Debug\net5.0\ref\Introduction to class.dll
+D:\Prompt\MDT211\Introduction to class\Introduction to class\bin\Debug\net5.0\Introduction to class.pdb
+D:\Prompt\MDT211\Introduction to class\Introduction to class\obj\Debug\net5.0\Introduction to class.csprojAssemblyReference.cache
+D:\Prompt\MDT211\Introduction to class\Introduction to class\obj\Debug\net5.0\Introduction to class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prompt\MDT211\Introduction to class\Introduction to class\obj\Debug\net5.0\Introduction to class.AssemblyInfoInputs.cache
+D:\Prompt\MDT211\Introduction to class\Introduction to class\obj\Debug\net5.0\Introduction to class.AssemblyInfo.cs
+D:\Prompt\MDT211\Introduction to class\Introduction to class\obj\Debug\net5.0\Introduction to class.csproj.CoreCompileInputs.cache
+D:\Prompt\MDT211\Introduction to class\Introduction to class\obj\Debug\net5.0\Introduction to class.dll
+D:\Prompt\MDT211\Introduction to class\Introduction to class\obj\Debug\net5.0\ref\Introduction to class.dll
+D:\Prompt\MDT211\Introduction to class\Introduction to class\obj\Debug\net5.0\Introduction to class.pdb
+D:\Prompt\MDT211\Introduction to class\Introduction to class\obj\Debug\net5.0\Introduction to class.genruntimeconfig.cache
